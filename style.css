@@ -42,10 +42,14 @@ color: white;
 text-decoration: none;
 font-weight: bold;
 }
+.device-card h2 {
+    color: #1f6feb;
+    margin-top: 0;
+}
 .main-footer {
-background-color: #333;
-color: white;
-text-align: center;
-padding: 20px;
-margin-top: 40px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
